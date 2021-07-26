@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE08</string>
+    <string name="submit">Submit</string>
+    <string name="enterText">Enter Text Here</string>
+    <string name="empty">cannot leave text blank</string>
+    <string name="spaces">cannot contain spaces</string>
+</resources>
